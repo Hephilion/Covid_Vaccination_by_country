@@ -5,5 +5,3 @@ This repository contains the replication of the Data Analytics Project shown in 
 
 ## My Tableau Dashboard
 https://public.tableau.com/app/profile/goncalo.gabriel/viz/COVID-19GlobalVaccineTracker_16734751638980/GlobalVaccineTracker
-
-## Dataset
